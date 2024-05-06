@@ -5,12 +5,20 @@
 
 ![Demo](./img/ecomm-demo.gif "Demo")
 
+**🗺️ Concept map (so far):**
+![Concept map](./img/process.png "Concept map")
 
 **🔧 Install & run via docker-compose:**
 ```
 git clone git@github.com:akolpakov-somehash/headless-ecom.git
 docker-compose build
 docker-compose up -d
+```
+
+**⏯️ Run/stop on local environemnt**
+```
+make all
+make stop
 ```
 
 **🌐 Visit:** http://localhost:4200/
