@@ -3,6 +3,9 @@
 
 **🚧 Work in progress.**
 
+![Demo](./img/ecomm-demo.gif "Demo")
+
+
 **🔧 Install & run via docker-compose:**
 ```
 git clone git@github.com:akolpakov-somehash/headless-ecom.git
